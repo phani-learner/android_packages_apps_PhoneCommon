@@ -95,7 +95,7 @@
   <!-- Text for CallFailCause.SERVICE_OR_OPTION_NOT_IMPLEMENTED = 79 -->
   <string name="callFailed_service_or_option_not_implemented">服務、選項未執行或未指定</string>
   <!-- Text for CallFailCause.INVALID_TRANSACTION_IDENTIFIER = 81 -->
-  <string name="callFailed_invalid_transaction_identifier">無效的事務識別碼值</string>
+  <string name="callFailed_invalid_transaction_identifier">無效的事務辨識碼值</string>
   <!-- Text for CallFailCause.USER_NOT_MEMBER_OF_CUG = 87 -->
   <string name="callFailed_user_not_member_of_CUG">使用者不是 CUG 的成員</string>
   <!-- Text for CallFailCause.INCOMPATIBLE_DESTINATION = 88 -->
@@ -123,5 +123,17 @@
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
   <string name="callFailed_interworking_unspecified">互聯互通，未指定</string>
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
-  <string name="callFailed_non_selected_user_clearing">未選取使用者清除</string>
+  <string name="callFailed_non_selected_user_clearing">未選擇使用者清除</string>
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
 </resources>
